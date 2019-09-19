@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iTunesTask/static/css/main.8eb6e771.chunk.css",
+    "main.js": "/iTunesTask/static/js/main.91030a10.chunk.js",
+    "main.js.map": "/iTunesTask/static/js/main.91030a10.chunk.js.map",
+    "runtime~main.js": "/iTunesTask/static/js/runtime~main.205d26f3.js",
+    "runtime~main.js.map": "/iTunesTask/static/js/runtime~main.205d26f3.js.map",
+    "static/js/2.90d4c676.chunk.js": "/iTunesTask/static/js/2.90d4c676.chunk.js",
+    "static/js/2.90d4c676.chunk.js.map": "/iTunesTask/static/js/2.90d4c676.chunk.js.map",
+    "index.html": "/iTunesTask/index.html",
+    "precache-manifest.b192da7c20cfff387a25ab56d0e193fd.js": "/iTunesTask/precache-manifest.b192da7c20cfff387a25ab56d0e193fd.js",
+    "service-worker.js": "/iTunesTask/service-worker.js",
+    "static/css/main.8eb6e771.chunk.css.map": "/iTunesTask/static/css/main.8eb6e771.chunk.css.map"
+  }
+}
