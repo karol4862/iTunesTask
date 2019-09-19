@@ -1,0 +1,31 @@
+footer{
+    background-color: rgb(31, 27, 27);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p {
+    color: rgb(212, 212, 212);
+    font-size: .8rem;
+    padding: 15px 0 ;
+}
+
+footer p::after{
+    content: '';
+    position: absolute;
+    top:50%;
+    transform: translateX(30%);
+    background-color: rgb(70, 70, 70);
+    width: 40px;
+    height:2px;
+}
+footer p::before {
+    content: '';
+    position: absolute;
+    top:50%;
+    transform: translateX(-130%);
+    background-color: rgb(70, 70, 70);
+    width: 40px;
+    height:2px;
+}

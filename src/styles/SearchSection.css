@@ -1,0 +1,33 @@
+.searchSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(31, 27, 27);
+    color:white;
+}
+.searchSection h2{
+    font-size: 1.2rem;
+    padding: 15px 0 15px 0;
+}
+.searchForm{
+    display: block;
+    border-radius: 25px;
+    overflow: hidden;
+}
+.searchForm input, .searchForm button {
+    padding: 7px 15px;
+    font-size: .7rem;
+}
+.searchForm button{
+    background-color: rgb(255, 155, 4);
+    border: 2px rgb(255, 155, 4) solid;
+    color: white;
+}
+.searchSection p {
+    font-size: .6rem;
+    width: 70vw;
+    text-align: center;
+    padding: 15px 0 25px 0;
+    color: rgb(204, 204, 204);
+    word-spacing: 1px;
+}

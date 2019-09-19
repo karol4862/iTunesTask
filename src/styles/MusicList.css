@@ -1,0 +1,38 @@
+.musicList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 70vw;
+}
+.musicCard{
+    flex-basis: 20vw;
+    display: flex;
+    margin: .9rem 0;
+    background-color: rgb(241, 241, 241);
+    padding: 10px;
+    transition: .3s;
+    border: 0 orange solid;
+}
+.musicCard:hover{
+    box-shadow: 0 0 10px rgb(136, 136, 136), 0 0 0 2px orange;
+}
+.musicCard img{
+    height: 4.3rem;
+    width: 4.3rem;
+    margin-right: 10px;
+    border: 1.5px solid black;
+}
+.contentBox{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    font-size: .5rem;
+    flex-grow: 1;
+}
+.contentBox h3{
+    flex-basis: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+}
